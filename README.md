@@ -1,5 +1,5 @@
 # TextUtils
-The Web Application which contains various tools for text manipulation. build with the help for Django (Python).
+The Web Application which contains various tools for text manipulation. build with the help of Django (Python).
 
 <h1>What Can We do from textutils ?</h1>
 1)Remove Punctuations<br>
